@@ -1,5 +1,5 @@
 outs:
-- md5: d7f9902041d4eb8893ed5db937cd36b8
-  size: 1167816
+- md5: ed71d5d6d7237fabae14ff770c65db67
+  size: 1708432
   hash: md5
   path: model_hand.h5
