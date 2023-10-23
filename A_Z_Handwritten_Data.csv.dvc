@@ -1,0 +1,5 @@
+outs:
+- md5: bb1cfbff8b0e64aea00f5481eec7fde8
+  size: 698907044
+  hash: md5
+  path: A_Z_Handwritten_Data.csv
